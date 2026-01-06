@@ -4,8 +4,8 @@
 class Mm < Formula
   desc "Interactively select and run make targets"
   homepage "https://github.com/OakNinja/MakeMe"
-  url "https://github.com/OakNinja/MakeMe/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "207b7651d72b8de9901d394f915f8f457f3b1ad37f25dbddfa3b2de8d7af2129"
+  url "https://github.com/OakNinja/MakeMe/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "b7f513fc38a3144fa1df318fbbfb98a220a9d09f806c15119020a9bcfe6b987f"
 
   depends_on "go" => :build
   depends_on "fzf"
